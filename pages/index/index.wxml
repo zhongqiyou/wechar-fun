@@ -1,0 +1,5 @@
+<view>
+<text>云函数测试：</text>
+<button type="primary" bindtap="getOpenId">获取openId</button>
+<button type="primary" bindtap="getBreach">突破获取20条数据</button>
+</view>
